@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@700&display=swap');
+body {
+    font-family: 'Quicksand', sans-serif !important;
+    background: url('./orange_and_purple_gradient_background_by_lovinglifeindisarray_dadko3d-fullview.jpg')!important;
+    /* Full height */
+    height: 100vh !important;
+    /* Center and scale the image nicely */
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    position: relative !important;
+    color: white !important;
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+}
+
+.container {}
+
+a {
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+    font-size: larger;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+    font-size: larger;
+    text-decoration: none;
+}
